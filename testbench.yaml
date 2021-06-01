@@ -1,2 +1,2 @@
 providers:
-  - VendorName\Skeleton\SkeletonServiceProvider
+  - Jorgecar\Haxo2\Haxo2ServiceProvider

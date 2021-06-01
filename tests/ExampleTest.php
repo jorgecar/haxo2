@@ -1,6 +1,6 @@
 <?php
 
-namespace VendorName\Skeleton\Tests;
+namespace Jorgecar\Haxo2\Tests;
 
 class ExampleTest extends TestCase
 {

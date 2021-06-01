@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Jorgecar\Haxo2\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class Haxo2Command extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'haxo2';
 
     public $description = 'My command';
 
