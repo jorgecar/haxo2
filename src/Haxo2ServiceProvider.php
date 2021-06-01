@@ -2,9 +2,9 @@
 
 namespace Jorgecar\Haxo2;
 
+use Jorgecar\Haxo2\Commands\Haxo2Command;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Jorgecar\Haxo2\Commands\Haxo2Command;
 
 class Haxo2ServiceProvider extends PackageServiceProvider
 {

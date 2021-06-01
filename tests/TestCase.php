@@ -3,8 +3,8 @@
 namespace Jorgecar\Haxo2\Tests;
 
 use Illuminate\Database\Eloquent\Factories\Factory;
-use Orchestra\Testbench\TestCase as Orchestra;
 use Jorgecar\Haxo2\Haxo2ServiceProvider;
+use Orchestra\Testbench\TestCase as Orchestra;
 
 class TestCase extends Orchestra
 {
